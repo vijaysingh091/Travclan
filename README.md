@@ -1,10 +1,6 @@
 # Hotel Booking Analysis & Revenue Optimization
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
 
-> **Business Analyst Intern Assignment for TravClan**  
 > Comprehensive analysis of 30,000 hotel booking transactions identifying revenue optimization opportunities worth INR 19.8 crore annually
 
 ---
